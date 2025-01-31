@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version-master version');
+console.log('version-master version 1');
